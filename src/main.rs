@@ -1,9 +1,6 @@
 use lcs_image_diff::compare;
 use std::env;
 
-#[derive(Debug)]
-struct CustomError(String);
-
 fn main() {
     for item in env::args() {
         println!("{}", item);
