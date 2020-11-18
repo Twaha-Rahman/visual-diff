@@ -1,5 +1,5 @@
 [package]
-name = "rust_impl"
+name = "visual_diff"
 version = "0.1.0"
 authors = ["Twaha Rahman <mahi6703890@gmail.com>"]
 edition = "2018"
